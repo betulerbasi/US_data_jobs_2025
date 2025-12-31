@@ -20,7 +20,7 @@ Data Patterns:
 
 3) The data on salaries by job titles are skewed due to an outlier with $300k max salary while most of the rest is in $150k-$160k range. This can be solved with a more comprehensive data set. 
 
-4) June was the month when jobs with the highest salaries were posted. However, when I look at the real data, this is due to June not having many postings (only 2). There were more jobs posted in December, including the highest salaries. However, since there were also low-salary jobs in that month, the results did not appear as high as June in the visualization. The best solution to determine if these are actual patterns would be to compare data over years. If jobs posted in June consistently have higher max salaries, then we can confirmthis to be a pattern. 
+4) June was the month when jobs with the highest salaries were posted. However, when I look at the real data, this is due to June not having many postings (only 2). There were more jobs posted in December, including the highest salaries. However, since there were also low-salary jobs in that month, the results did not appear as high as June in the visualization. The best solution to determine if these are actual patterns would be to compare data over years. If jobs posted in June consistently have higher max salaries, then we can confirm this to be a pattern. 
 
 
 
