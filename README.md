@@ -20,12 +20,14 @@ Data Patterns:
 
 3) The data on salaries by job titles are skewed due to an outlier with $300k max salary while most of the rest is in $150k-$160k range. This can be solved with a more comprehensive data set. 
 
-4) June was the month when jobs with the highest salaries were posted. However, when I look at the real data, this is due to June not having many postings (only 2). There were more jobs posted in December, including the highest salaries. However, since there were also low-salary jobs in that month, the results did not appear as high as June in the visualization. The best solution to determine if these are actual patterns would be to compare data over years. If jobs posted in June consistently have higher max salaries, then we can confirm this to be a pattern. 
+4) June was the month when jobs with the highest salaries were posted. However, when I look at the real data, this is due to June not having many postings (only 2). There were more jobs posted in December, including the highest salaries. However, since there were also low-salary jobs in that month, the results did not appear as high as June in the visualization. The best solution to determine if these are actual patterns would be to compare data over years. If jobs posted in June consistently have higher max salaries, then we can confirm this to be a pattern.
+   
+5) R is the skill that is the most consistently required across job categories and IT jobs require the most diverse types of skills. Individual jobs require at most two skills in this dataset. A bigger dataset is needed to confirm or refute the conclusions from the current dataset. 
 
 
 
 Next Steps:
 
-This is a preliminary analysis on salaries of data jobs in the US in 2025. As mentioned in the patterns sections , a more comprehensive data would yield better results. As the next step, I will work on a bigger data set with at least 100 jobs per category and at least 5 per job title. 
+This is a preliminary analysis on salaries of data jobs in the US in 2025 with limited data. As mentioned in the patterns sections , a more comprehensive data would yield better results. As the next step, I will work on a bigger data set with at least 100 jobs per category and at least 5 per job title. 
 
 
